@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+body{
+    font-size: 24px;
+    background-image: url(../img/background.jpg);
+    cursor: url(../img/cursor.png),default;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 1300px;
+}
+.header{
+    font-size: 23px;
+    text-align: center;
+    margin-top: 40px;
+}
+.logo{
+    width: 50%;
+}
+.nav-link{
+    font-family: 'Rubik Mono One', sans-serif;
+    text-decoration: none;
+    margin-left: 29px;
+    color: #3b3b3b;
+}
+.nav-link:hover{
+    color: #5a0212;
+}
+h2{
+    padding-top:20px;
+    text-align: center;
+}
+.text-p{
+    padding: 20px;
+    text-align: justify;
+}
+.footer{
+    text-align: center;
+    color: white;
+}
+.history-wrapper{
+    height: 450px;
+    opacity: 0.8;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 80px; 
+    display:flex;
+}
+.img-gif{
+    width: 550px;
+}
